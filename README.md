@@ -111,6 +111,6 @@ You can deploy the app using:
 
 **Developer**: Ibrahim Ismail Busayo  
 📧 Email: ibrahimbusayo2018@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ismail-ibrahim-3a79b723a)
+🔗 LinkedIn: (https://www.linkedin.com/in/ismail-ibrahim-3a79b723a)
 
 ---
