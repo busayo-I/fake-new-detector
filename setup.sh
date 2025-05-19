@@ -1,0 +1,1 @@
+streamlit run fake_news_app.py
